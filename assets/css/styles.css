@@ -158,7 +158,7 @@ button:hover {
     color: #fff;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 556px) {
     body {
         grid-template-columns: 1fr;
         grid-template-areas: 
